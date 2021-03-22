@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess.Abstraction\Common.DataAccess.Abstraction.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.Abstraction\Common.DataAccess.Abstraction.csproj" />
   </ItemGroup>
 
 </Project>
